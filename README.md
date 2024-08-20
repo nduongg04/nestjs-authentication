@@ -1,6 +1,6 @@
 # NestJS Authentication with JWT
 
-This is a application that use NestJs, Jwt and Google Oauth2 for authentication
+This is an application that uses NestJs, Jwt, and Google Oauth2 for authentication
 
 ## Table of Contents
 
