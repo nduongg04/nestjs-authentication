@@ -60,7 +60,7 @@ JWT_REFRESH_TOKEN_EXPIRES_IN=7d
 
 ### User Registration
 
-To register a new user, send a POST request to `http://localhost:4000//api/auth/register` with the user's details.
+To register a new user, send a POST request to `http://localhost:4000/api/auth/register` with the user's details.
 
 ### User Login
 
